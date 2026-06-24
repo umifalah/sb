@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+python-multipart
+paddleocr
+paddlepaddle
+opencv-python-headless
+pillow
+rapidfuzz
+pytest
+httpx
